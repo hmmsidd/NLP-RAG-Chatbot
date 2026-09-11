@@ -1,7 +1,7 @@
 import google.generativeai as genai
 
 # Apni asli API key yahan daalna
-genai.configure(api_key="AIzaSyDmeD75JzHcgVeWlU8HKFevDgD4o2glj-o")
+genai.configure(api_key="YOUR_API_KEY_HERE")
 
 print("Google ke server se models dhoondh rahe hain...\n")
 
